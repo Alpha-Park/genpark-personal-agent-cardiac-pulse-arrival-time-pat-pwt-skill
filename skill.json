@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cardiac-pulse-arrival-time-pat-pwt-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency sovereign personal agent skill for calculating dual-sensor Pulse Arrival Time (PAT), Pulse Transit Time (PTT), pulse wave velocity, and arterial vascular compliance.",
+  "author": "AlphaPark Inc.",
+  "license": "Apache-2.0",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ]
+}
